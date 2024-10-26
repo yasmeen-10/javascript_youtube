@@ -1,8 +1,8 @@
-## Project-1
+## Project-1 Color-Changer
 ```
 JavaScript
 
-console.log("hitesh")
+console.log("egofever")
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
